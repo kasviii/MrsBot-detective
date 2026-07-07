@@ -1,4 +1,4 @@
-# Signal — Bot & Fake Profile Detector
+# MrsBot the detective — Fake Profile and Bot Detector
 
 A dashboard that estimates the probability a social media profile is a bot or fake account, based on manually entered profile stats (followers, following, posts, account age, bio length, posting frequency, and an engagement proxy).
 
